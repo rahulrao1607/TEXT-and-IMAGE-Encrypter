@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ImgTEXT Enc</string>
+    <string name="splash">TODO</string>
+    <string name="line">SMS AND IMAGE Encrypter And Decrypter</string>
+    <string name="image">TODO</string>
+    <string name="txtimg">FOR IMAGE</string>
+    <string name="for_text">FOR TEXT</string>
+    <string name="imgtxt">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="rah4">TODO</string>
+    <string name="img456">TODO</string>
+    <string name="tr23">TODO</string>
+    <string name="txt1">AES ALGORITHM</string>
+    <string name="enter_the_text">ENTER THE TEXT</string>
+    <string name="enter_the_password">ENTER THE PASSWORD</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="encrypt">ENCRYPT</string>
+    <string name="decrypter">DECRYPTER</string>
+    <string name="decrypt">DECRYPT</string>
+    <string name="clear">CLEAR</string>
+    <string name="copy">COPY</string>
+    <string name="encode">ENCODE</string>
+    <string name="text1">IMAGE ENCRYPTION BY AES ALGORITHM</string>
+    <string name="decode">DECODE</string>
+    <string name="image12">TODO</string>
+    <string name="anstxt2">TextView</string>
+</resources>
